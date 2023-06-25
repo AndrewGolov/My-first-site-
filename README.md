@@ -1,3 +1,3 @@
 # Мой первый Сайт, Сайт-Резюме
-## Дальше будет больше
+## Thanks for Result school!
 It was really interested 
