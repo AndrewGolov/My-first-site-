@@ -241,8 +241,9 @@ textarea:hover {
   
 }
 .submit input { 
-    width: 80%;
+    width: 150px;
     background: #ffa7a7;
+    text-align: center;
     
 }
 
