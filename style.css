@@ -232,6 +232,7 @@ textarea:hover {
 }
 .mess {
     margin-top: 20px;
+    width: 90%;
 }
 
 .submit {
